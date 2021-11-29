@@ -16,3 +16,6 @@ SUBDOMAIN=<subdomain>
 ```
 py main.py
 ```
+# Preview
+![zcc1](https://i.imgur.com/tS2OuGd.png)
+![zcc2](https://i.imgur.com/1K0YCNi.png)
