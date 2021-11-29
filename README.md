@@ -1,4 +1,4 @@
-# zcc
+# Zendesk Ticket Viewer (CLI)
 Zendesk 2022 Summer Intern Coding Challenge
 
 # Usage
